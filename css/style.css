@@ -1,0 +1,15 @@
+body{
+   background-color:rgb(255, 0, 247);
+}
+.text{
+	font-size: 100px;
+	color: red;
+}
+.cup{
+	font-size: 100px;
+	color:black ;
+}
+.map{
+	font-size: 100px;
+	color: green;
+}
